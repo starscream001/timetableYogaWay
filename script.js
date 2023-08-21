@@ -11,7 +11,7 @@ function sofia() {
 }
 
 function julia() {
-  window.open("https://t.me/Juliya_Fox1", "_blank");
+  window.open("https://t.me/Juliya_Drako", "_blank");
 }
 
 function ira() {
