@@ -1,5 +1,5 @@
 function ilya() {
-  window.open("https://t.me/Ilya_Manik", "_blank");
+  window.open("https://t.me/+aAREITgH1AcxYmJi", "_blank");
 }
 
 function roza() {
