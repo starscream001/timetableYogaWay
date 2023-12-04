@@ -14,6 +14,10 @@ function julia() {
   window.open("https://t.me/Juliya_Drako", "_blank");
 }
 
+function natalia() {
+  window.open("https://vk.com/yoga_vsevolojsk", "_blank");
+}
+
 function ira() {
   window.open("#", "_blank");
 }
