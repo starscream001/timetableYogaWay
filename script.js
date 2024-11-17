@@ -1,5 +1,5 @@
 function ilya() {
-  window.open("https://t.me/+aAREITgH1AcxYmJi", "_blank");
+  window.open("https://starscream001.github.io/vsew_iwco/", "_blank");
 }
 
 function roza() {
@@ -19,7 +19,7 @@ function natalia() {
 }
 
 function ira() {
-  window.open("#", "_blank");
+  window.open("tel:+79312101923", "_blank");
 }
 
 function nadia() {
