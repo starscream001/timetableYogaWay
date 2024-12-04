@@ -22,6 +22,10 @@ function ira() {
   window.open("tel:+79312101923", "_blank");
 }
 
+function lena() {
+  window.open("https://chat.whatsapp.com/KVSo5YmusST7IyZxrupYm9", "_blank");
+}
+
 function nadia() {
   window.open("https://t.me/nadejda_lubov", "_blank");
 }
