@@ -23,7 +23,7 @@ function ira() {
 }
 
 function lena() {
-  window.open("https://chat.whatsapp.com/KVSo5YmusST7IyZxrupYm9", "_blank");
+  window.open("https://elenanumelen.github.io/numelen/", "_blank");
 }
 
 function nadia() {
