@@ -3,7 +3,7 @@ function ilya() {
 }
 
 function roza() {
-  window.open("https://t.me/Rozalia_Manik", "_blank");
+  window.open("https://rozaliamanik.github.io/vsev_yoga/", "_blank");
 }
 
 function sofia() {
