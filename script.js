@@ -6,6 +6,10 @@ function roza() {
   window.open("https://rozaliamanik.github.io/vsev_yoga/", "_blank");
 }
 
+function max() {
+  window.open("https://t.me/wing_chun_Dmitrichenko", "_blank");
+}
+
 function sofia() {
   window.open("https://t.me/sofidances", "_blank");
 }
